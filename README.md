@@ -22,7 +22,7 @@ Estudante de Engenharia de Software na **PUC Minas** (campus Coração Eucaríst
 ## 📌 Projetos em destaque
 
 - **[Exercícios-Python-PUC](https://github.com/LeoZIZ12/exercicios-python-puc)** —  Repositório com exercícios de Python organizados por disciplina, feitos ao longo do primeiro semestre.
-- **[-](link)** — Aplicação web desenvolvida como trabalho acadêmico, usando HTML, CSS, JS e Bootstrap. Breve descrição do que o sistema faz.
+- **[WanderLust]([link](https://github.com/LeoZIZ12/wanderlust))** — Aplicação web desenvolvida como trabalho acadêmico, usando HTML, CSS, JS e Bootstrap. Breve descrição do que o sistema faz.
 
 ## 📊 Estatísticas
 
