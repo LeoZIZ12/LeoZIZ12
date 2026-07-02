@@ -22,7 +22,7 @@ Estudante de Engenharia de Software na **PUC Minas** (campus Coração Eucaríst
 ## 📌 Projetos em destaque
 
 - **[Exercícios-Python-PUC](https://github.com/LeoZIZ12/exercicios-python-puc)** —  Repositório com exercícios de Python organizados por disciplina, feitos ao longo do primeiro semestre.
--  [Wanderlust](https://github.com/leonardomartinsmacedo/wanderlust)—
+-  [Wanderlust](https://github.com/LeoZIZ12/wanderlust)—
 
     Catálogo web de destinos turísticos com autenticação de usuários, sistema de favoritos, permissões de administrador e CRUD completo         (criar, editar e excluir destinos) consumindo uma API REST simulada. Inclui busca, filtros por categoria, carrossel de destaques e mapa     interativo.
     
