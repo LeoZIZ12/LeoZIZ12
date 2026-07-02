@@ -1,6 +1,6 @@
 # Olá, eu sou o Leonardo 👋
 
-Estudante de Engenharia de Software na **PUC Minas** (campus Coração Eucarístico), atualmente no início da graduação. Estou construindo minha base em programação e já direcionando meus estudos para **back-end** e **dados**.
+Estudante de Engenharia de Software na **PUC Minas** (campus Coração Eucarístico), atualmente no início da graduação. Estou construindo minha base em programação.
 
 ## 🎯 Sobre mim
 
