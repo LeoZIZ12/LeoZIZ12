@@ -21,7 +21,7 @@ Estudante de Engenharia de Software na **PUC Minas** (campus Coração Eucaríst
 
 ## 📌 Projetos em destaque
 
-- **[nome-do-projeto](link)** — Aplicação web desenvolvida como trabalho acadêmico, usando HTML, CSS, JS e Bootstrap. Breve descrição do que o sistema faz.
+- **[Exercícios-Python-PUC]([link](https://github.com/LeoZIZ12/exercicios-python-puc.git))** — Aplicação web desenvolvida como trabalho acadêmico, usando HTML, CSS, JS e Bootstrap. Breve descrição do que o sistema faz.
 - **[exercicios-python-puc](link)** — Repositório com exercícios de Python organizados por disciplina, feitos ao longo do primeiro semestre.
 
 ## 📊 Estatísticas
